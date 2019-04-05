@@ -1,3 +1,4 @@
+[![Build Status](https://kpflynn.visualstudio.com/Docker-Project/_apis/build/status/Docker-Project-ASP.NET%20Core-CI?branchName=master)](https://kpflynn.visualstudio.com/Docker-Project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
